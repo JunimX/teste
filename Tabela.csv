@@ -1,0 +1,5 @@
+id_carro,placa,cor,ano,modelo,marca,rast_serial,rast_modelo,rast_marca
+1,11111,verde,2001,gol,woksvagen,1111111,00001,aaaa
+2,22222,amarelo,2002,corsa,chevrolet,2222222,00002,bbbb
+3,33333,vermelho,2003,ka,ford,3333333,00003,cccc
+4,44444,azul,2004,uno,fiat,4444444,00004,dddd
